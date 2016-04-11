@@ -1,0 +1,15 @@
+C:\Users\Maks_Sh\Desktop\Проекты\Storage\SafeStorage\SafeStorage\bin\Debug\SafeStorage.exe
+C:\Users\Maks_Sh\Desktop\Проекты\Storage\SafeStorage\SafeStorage\bin\Debug\SafeStorage.pdb
+C:\Users\Maks_Sh\Desktop\Проекты\Storage\SafeStorage\SafeStorage\obj\x86\Debug\SafeStorage.Properties.Resources.resources
+C:\Users\Maks_Sh\Desktop\Проекты\Storage\SafeStorage\SafeStorage\obj\x86\Debug\SafeStorage.csproj.GenerateResource.Cache
+C:\Users\Maks_Sh\Desktop\Проекты\Storage\SafeStorage\SafeStorage\obj\x86\Debug\SafeStorage.exe
+C:\Users\Maks_Sh\Desktop\Проекты\Storage\SafeStorage\SafeStorage\obj\x86\Debug\SafeStorage.pdb
+C:\Users\Maks_Sh\Desktop\Проекты\Storage\SafeStorage\SafeStorage\obj\x86\Debug\SafeStorage.Form1.resources
+C:\Users\Maks_Sh\Desktop\Проекты\SafeStorage\SafeStorage\obj\x86\Debug\SafeStorage.exe
+C:\Users\Maks_Sh\Desktop\Проекты\SafeStorage\SafeStorage\obj\x86\Debug\SafeStorage.pdb
+C:\Users\Maks_Sh\Desktop\Проекты\SafeStorage\SafeStorage\bin\Debug\SafeStorage.exe
+C:\Users\Maks_Sh\Desktop\Проекты\SafeStorage\SafeStorage\bin\Debug\SafeStorage.pdb
+C:\Users\Maks_Sh\Desktop\Проекты\SafeStorage\SafeStorage\obj\x86\Debug\SafeStorage.Properties.Resources.resources
+C:\Users\Maks_Sh\Desktop\Проекты\SafeStorage\SafeStorage\obj\x86\Debug\SafeStorage.csproj.GenerateResource.Cache
+C:\Users\Maks_Sh\Desktop\Проекты\SafeStorage\SafeStorage\obj\x86\Debug\SafeStorage.SafeStorage.resources
+C:\Users\Maks_Sh\Desktop\Проекты\SafeStorage\SafeStorage\obj\x86\Debug\SafeStorage.csprojResolveAssemblyReference.cache

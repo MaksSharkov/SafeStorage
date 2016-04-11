@@ -1,0 +1,8 @@
+C:\Users\Maks_Sh\Desktop\Проекты\SafeStorage\SafeStorage\bin\Release\SafeStorage.exe
+C:\Users\Maks_Sh\Desktop\Проекты\SafeStorage\SafeStorage\bin\Release\SafeStorage.pdb
+C:\Users\Maks_Sh\Desktop\Проекты\SafeStorage\SafeStorage\obj\x86\Release\SafeStorage.SafeStorage.resources
+C:\Users\Maks_Sh\Desktop\Проекты\SafeStorage\SafeStorage\obj\x86\Release\SafeStorage.Properties.Resources.resources
+C:\Users\Maks_Sh\Desktop\Проекты\SafeStorage\SafeStorage\obj\x86\Release\SafeStorage.csproj.GenerateResource.Cache
+C:\Users\Maks_Sh\Desktop\Проекты\SafeStorage\SafeStorage\obj\x86\Release\SafeStorage.exe
+C:\Users\Maks_Sh\Desktop\Проекты\SafeStorage\SafeStorage\obj\x86\Release\SafeStorage.pdb
+C:\Users\Maks_Sh\Desktop\Проекты\SafeStorage\SafeStorage\obj\x86\Release\SafeStorage.csprojResolveAssemblyReference.cache
